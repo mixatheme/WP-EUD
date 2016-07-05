@@ -1,9 +1,3 @@
-#THIS IS A CONCEPTUAL DRAFT ONLY.
-
-If you see this message it means this initiative is just kicking off. While the initiative is still in the conceptual phase, please feel free to contribute new dialog by opening an Issue. Thanks!
-
----
-
 # WP-EUD
 
 WP-EUD is an [Ethical Use Declaration](https://en.wikipedia.org/wiki/Ethics) for [WordPress](https://wordpress.org) Developers to package with [GPL](https://www.gnu.org/licenses) distributed themes, plugins, projects or source code. WP-EUD, in its simplest form, is a text document: [`ETHICS.md`](https://github.com/mixatheme/WP-EUD/blob/master/ETHICS.md). WP-EUD, as a mission, is to assist the WordPress Community by pledging to abide by ethical standards when publishing GPL-compatible software to the public.
@@ -16,7 +10,7 @@ WP-EUD is an [Ethical Use Declaration](https://en.wikipedia.org/wiki/Ethics) for
 
 ### Table of Contents
 
-1. [Cycle](https://github.com/mixatheme/WP-EUD#cycle)
+1. [Status](https://github.com/mixatheme/WP-EUD#status)
 2. [How To Use](https://github.com/mixatheme/WP-EUD#how-to-use)
 2. [Badges](https://github.com/mixatheme/WP-EUD#badges)
 3. [Contributing](https://github.com/mixatheme/WP-EUD#contributing)
@@ -29,10 +23,11 @@ WP-EUD is an [Ethical Use Declaration](https://en.wikipedia.org/wiki/Ethics) for
 
 ---
 
-## Cycle
+## Status
 
+* **Created by:** [MIXA](https://mixatheme.com)
 * **Phase:** Conceptual. Experimental. May or may not be of use to anyone. Not production-ready.
-* **Version:** 0.0.1-pre-release
+* **Version:** Pre-Release
 * **Last Update:** July 2016
 * **Contributor Count:** 1
 
