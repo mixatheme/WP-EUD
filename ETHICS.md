@@ -4,13 +4,13 @@ If you see this message it means this initiative is just kicking off. While the 
 
 ---
 
-# WP-EUP
+# WP-EUD
 
-Version: 0.0.1 | https://github.com/mixatheme/wp-eup
+Version: 0.0.1 | https://github.com/mixatheme/WP-EUD
 
 ---
 
-## Ethical Use Policy
+## Ethical Use Declaration
 
 You have received this document alongside the software you have obtained because the Developer of this software is hereby declaring their pledge of ethical standards herein. By the Developer declaring their pledge, to you, the Developer has committed due diligence to deliver a high standard of software quality above the industry average.
 
@@ -33,7 +33,7 @@ You have received this document alongside the software you have obtained because
 2. Does not incorporate "split licensing" of any kind.
 3. YOUR CONTRIBUTION HERE
 
-[Top](//github.com/mixatheme/wp-eup/blob/master/ETHICS.md)
+[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
  
 ---
 ## 2. Marketing
@@ -50,7 +50,7 @@ You have received this document alongside the software you have obtained because
 7. Uses verbiage and ad copy which does not intentionally mislead the consumer.
 8. YOUR CONTRIBUTION HERE
 
-[Top](//github.com/mixatheme/wp-eup/blob/master/ETHICS.md)
+[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
 
 ---
 ## 3. Coding Standards
@@ -64,7 +64,7 @@ You have received this document alongside the software you have obtained because
 4. Has been thoroughly pre-screened for validation and sanitization.
 5. YOUR CONTRIBUTION HERE
 
-[Top](//github.com/mixatheme/wp-eup/blob/master/ETHICS.md)
+[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
 
 ---
 ## Contributors
@@ -73,7 +73,7 @@ This document has been compiled by the @mixatheme team, with the generous suppor
 ---
 Copyright © 2016 [@tadaburke](https://github.com/tadaburke), [@YourNameHere](https://#). All rights reserved.
 
-[Top](//github.com/mixatheme/wp-eup/blob/master/ETHICS.md)
+[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
 
 ---
-Proudly [ethical](//github.com/mixatheme/wp-eup) for [WordPress](//wordpress.org) :heart:
+Proudly [ethical](//github.com/mixatheme/WP-EUD) for [WordPress](//wordpress.org) :heart:

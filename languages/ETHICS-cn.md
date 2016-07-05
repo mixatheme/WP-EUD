@@ -1,3 +1,3 @@
-# WP-EUP
+# WP-EUD
 
 @TODO Chinese translation.
