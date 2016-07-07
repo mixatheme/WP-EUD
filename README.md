@@ -25,6 +25,8 @@ WP-EUD is an [Ethical Use Declaration](https://en.wikipedia.org/wiki/Ethics) for
 
 ## Status
 
+WP-EUD was initially created for [MIXA](https://mixatheme.com) internal projects. WP-EUD was published on GitHub in 2016, with hopes that the WordPress Community will benefit and share with others.
+
 * **Created by:** [MIXA](https://mixatheme.com)
 * **Phase:** Conceptual. Experimental. May or may not be of use to anyone. Not production-ready.
 * **Version:** Pre-Release
@@ -112,7 +114,7 @@ WP-EUD is an open-source, community-driven repository and is not affiliated with
 ---
 
 ## About
-[MIXA](https://mixatheme.com) is the WordPress theme and plugin division of [Neurobotic](http://neurobotic.com) founded by [Tada Burke](//github.com/tadaburke). WP-EUD was initially created for [MIXA](https://mixatheme.com) internal projects. WP-EUD was published on GitHub in 2016, with hopes that the WordPress Community will benefit and share with others.
+[MIXA](https://mixatheme.com) is the WordPress theme and plugin division of [Neurobotic](http://neurobotic.com) founded by [Tada Burke](//github.com/tadaburke).
 
 **Follow us?** [Twitter](https://twitter.com/mixatheme) | [Facebook](https://facebook.com/MixaTheme)
 
