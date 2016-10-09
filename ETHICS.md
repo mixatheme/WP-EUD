@@ -1,79 +1,123 @@
-#THIS IS A CONCEPTUAL DRAFT ONLY.
+# WP Wireframe Ethics
 
-If you see this message it means this initiative is just kicking off. While the initiative is still in the conceptual phase, please feel free to contribute new dialog by opening an Issue. Thanks!
+WP Wireframe Ethics is an [Ethical Use Policy](https://en.wikipedia.org/wiki/Ethics) for [WordPress](https://wordpress.org) Developers to package with [GPL](https://www.gnu.org/licenses) distributed themes, plugins, projects or source code. WP Wireframe Ethics, in its simplest form, is a text document: [`ETHICS.md`](https://github.com/mixatheme/wp-wireframe-ethics/blob/master/ETHICS.md). WP Wireframe Ethics, as a mission, is to assist the WordPress Community by pledging to abide by ethical standards when publishing GPL-compatible software to the public.
 
----
+**What are ethics?**
 
-# WP-EUD
-
-Version: 0.0.1 | https://github.com/mixatheme/WP-EUD
-
----
-
-## Ethical Use Declaration
-
-You have received this document alongside the software you have obtained because the Developer of this software is hereby declaring their pledge of ethical standards herein. By the Developer declaring their pledge, to you, the Developer has committed due diligence to deliver a high standard of software quality above the industry average.
+>**Ethics** ( /eTHiks/ ) or moral philosophy is the branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. The term ethics derives from the Ancient Greek word ἠθικός ethikos, which is derived from the word ἦθος ethos (habit, "custom"). The branch of philosophy axiology comprises the sub-branches of ethics and aesthetics, each concerned with values. —[WikiPedia.org](https://en.wikipedia.org/wiki/Ethics)
 
 ---
 
 ### Table of Contents
 
-1. [GPL](#1-gpl)
-2. [MARKETING](#2-marketing)
-3. [CODING STANDARDS](#3-coding-standards)
-4. @TODO
+1. [Status](https://github.com/mixatheme/wp-wireframe-ethics#status)
+2. [How To Use](https://github.com/mixatheme/wp-wireframe-ethics#how-to-use)
+2. [Badges](https://github.com/mixatheme/wp-wireframe-ethics#badges)
+3. [Contributing](https://github.com/mixatheme/wp-wireframe-ethics#contributing)
+4. [Limitations](https://github.com/mixatheme/wp-wireframe-ethics#limitations)
+5. [Support](https://github.com/mixatheme/wp-wireframe-ethics#support)
+6. [Thank You](https://github.com/mixatheme/wp-wireframe-ethics#thank-you)
+7. [About](https://github.com/mixatheme/wp-wireframe-ethics#about)
+8. [License](https://github.com/mixatheme/wp-wireframe-ethics#license)
+9. [Copyright](https://github.com/mixatheme/wp-wireframe-ethics#copyright)
 
 ---
-## 1. GPL
-@TODO Explain the GPL section. Any contributors out there wanna help?
 
-**I hereby pledge this software...**
+## Status
 
-1. Is 100% GPL-compatible.
-2. Does not incorporate "split licensing" of any kind.
-3. YOUR CONTRIBUTION HERE
+WP Wireframe Ethics was initially created for [MixaTheme](https://mixatheme.com) internal projects. WP Wireframe Ethics was published on GitHub in 2016, with hopes that the WordPress Community will benefit and share with others.
 
-[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
- 
+* **Created by:** [Tada Burke](https://github.com/tadaburke/authorbios/blob/master/tada-burke.md)
+*  **Maintained by:** ![MixaTheme Logo](https://avatars3.githubusercontent.com/u/16634291?v=3&s=16) [MixaTheme](https://github.com/mixatheme/wp-wireframe-theme#about-mixatheme)
+* **Phase:** Conceptual. Feedback wanted!
+* **Version:** 0.0.1
+
+## How To Use
+Telling your clients and customers you use WP Wireframe Ethics is quick & easy. If you agree to the pledges committed by this community repo, then you simply need to package the [`ETHICS.md`](https://github.com/mixatheme/wp-wireframe-ethics/blob/master/ETHICS.md) file into your GPL distributed software.
+
+1. Clone this repo somewhere into your WordPress theme or plugin.
+2. Let your end-users know you abide by wp-wireframe-ethics with a link to this repo or placing a wp-wireframe-ethics badge somewhere on the front-end of your project. :soon:
+3. Tweet your followers and [@mixatheme](//twitter.com/mixatheme) so people know you practice WP Wireframe Ethics. We'll review and add you to the [Thank You](#thank-you) list as soon as possible!
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## Badges
+* :soon:
+
+## Contributing
+Anyone is encouraged to contribute, no coding required! We welcome the WordPress Community to help this project grow over time. You must have a GitHub account to submit Issues or Pull Requests.
+
+**Some helpful recommendations**...
+
+* You love WordPress.
+* You are well-versed in GPLv2 or later.
+* You are well-versed in [Ethics](https://en.wikipedia.org/wiki/Ethics) or have some due diligence.
+* You wish to help translate wp-wireframe-ethics into another language.
+* You develop GPL-compatible themes or plugins.
+* You agree to abide by all ethics setforth.
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## Limitations
+
+* :warning: WP Wireframe Ethics is not for everyone. If any part of your project is not GPL-compatible or you simply don't agree to any pledges we've committed, then please do not package wp-wireframe-ethics into your distribution.
+
+* :warning: WP Wireframe Ethics is not a legally binding document.
+
+* :warning: WP Wireframe Ethics is intended to be a single-page text document with a very specific list of pledges compiled by the community. It is not intended to become a bloated book or an unlimited list of rants.
+
+* :warning: WP Wireframe Ethics is free and open-source. No commercial monetizing will ever be requested by this project. Therefore, we've opted to not purchase a domain name or hosting because those cost money. If you discover any entity claiming to be affiliated with wp-wireframe-ethics please report them to us.
+
+* :warning: WP Wireframe Ethics is opt-in for pledges. In no way do these policies have to be enforced by any Developer or any End User who chooses not to use wp-wireframe-ethics. 
+
+* :warning: WP Wireframe Ethics is intended for, but not limited to, software built for WordPress.
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## Violations
+If you discover any software or entity which claims to abide by WP Wireframe Ethics and you feel they violate wp-wireframe-ethics, please open an [Issue](//github.com/mixatheme/wp-wireframe-ethics/issues) so the community can research your report.
+
+:no_entry: [REPORT A VIOLATION](//github.com/mixatheme/wp-wireframe-ethics/issues)
+
+**Please note:** We cannot control WP Wireframe Ethics violations, however, we will always make any known violations publicly available. We do not "reprimand" violators. The goal of wp-wireframe-ethics is not to disrupt the ecosystem, we merely wish to embrace a more ethical ecosystem.
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## Support
+Have a question? No problem. Head on over to the Wiki first to see if your question has already been answered. If not, head on over to the Issues and start a new thread.
+
+* :books: [Wiki](https://github.com/mixatheme/wp-wireframe-ethics/wiki) - View some FAQs before you open an Issue.
+* :octocat: [Issues](//github.com/mixatheme/wp-wireframe-ethics/issues) - Start a new relevant discussion or open an new Issue.
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## Thank You
+* [WordPress](//wordpress.org) - The community this repo was created for!
+* [WordPress Tavern](https://wptavern.com) - A great blog about WordPress, which inspired this repo.
+* **Contributors:** [@YourNameHere](https://#)
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
+## License
+GPL-2.0+ ( see [LICENSE](https://github.com/mixatheme/wp-wireframe-ethics/blob/master/LICENSE) )
+
+## Copyright
+Copyright © 2016 [MixaTheme](https://mixatheme.com). All rights reserved.
+
+[WikiPedia pullquote attribution is Creative Commons](https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia).
+
+WP Wireframe Ethics is an open-source, community-driven repository and is not affiliated with [WordPress](https://wordpress.org) or [GitHub](//github.com).
+
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
+
 ---
-## 2. Marketing
-@TODO Explain the Marketing section. Any contributors out there wanna help?
 
-**I hereby pledge this software...**
+## About
+[MixaTheme](https://mixatheme.com) is the software development studio founded by [Tada Burke](https://github.com/tadaburke/authorbios/blob/master/tada-burke.md).
 
-1. Does not burden the end-user with "upsell" marketing on non theme/plugin related screens.
-2. Uses Marketing in an unobtrusive manner.
-3. Does not "hijack" the WordPress Admin Toolbar.
-4. Does not "hijack" theh WordPress Admin Sidebar.
-5. Does not "phone home" without the end-user's specific consent.
-6. Does not collect personally identifyable data without the end-user's specific consent.
-7. Uses verbiage and ad copy which does not intentionally mislead the consumer.
-8. YOUR CONTRIBUTION HERE
+**Thanks for using MixaTheme products! Follow us?** [Twitter](https://twitter.com/mixatheme) | [Facebook](https://facebook.com/MixaTheme) | [Get Updates](https://mixatheme.com)
 
-[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
+[Top](https://github.com/mixatheme/wp-wireframe-ethics)
 
 ---
-## 3. Coding Standards
-@TODO Explain the Coding Standards section. Any contributors out there wanna help?
-
-**I hereby pledge this software...**
-
-1. Adheres to WordPres Coding Standards.
-2. Adheres to UX best practices.
-3. Adheres to Accessibility Guidelines.
-4. Has been thoroughly pre-screened for validation and sanitization.
-5. YOUR CONTRIBUTION HERE
-
-[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
-
----
-## Contributors
-This document has been compiled by the @mixatheme team, with the generous support and contributions from the open-source software community. All contributors share the copyright of this document, unless otherwise noted.
-
----
-Copyright © 2016 [@tadaburke](https://github.com/tadaburke), [@YourNameHere](https://#). All rights reserved.
-
-[Top](//github.com/mixatheme/WP-EUD/blob/master/ETHICS.md)
-
----
-Proudly [ethical](//github.com/mixatheme/WP-EUD) for [WordPress](//wordpress.org) :heart:
+Proudly [ethical](https://github.com/mixatheme/wp-wireframe-ethics) for [WordPress](https://wordpress.org) :heart:
